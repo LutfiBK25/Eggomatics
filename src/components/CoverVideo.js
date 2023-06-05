@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import Video from '../assets/Home Video.mp4'
 import GIF from '../assets/Home Video GIF.gif'
 
 const VideoContainer = styled.div`
