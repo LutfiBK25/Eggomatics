@@ -142,22 +142,22 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a href="http://opensea.io" target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             >
               <Opensea />
             </a>
             <a href="https://www.instagram.com/eggomatics" target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             >
               <Instagram />
             </a>
             <a href="https://twitter.com/EggOMatics" target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a href="http://facebook.com" target='_blank'
-            rel="noopener"
+            rel="noopener noreferrer"
             >
               <Discord />
             </a>

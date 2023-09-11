@@ -8,7 +8,6 @@ import img4 from '../../assets/Nfts/14472.png'
 import img5 from '../../assets/Nfts/8342.png'
 import img6 from '../../assets/Nfts/15395.png'
 import img7 from '../../assets/Nfts/16222.png'
-import img8 from '../../assets/Nfts/Princess.png'
 import img9 from '../../assets/Nfts/287.png'
 import img10 from '../../assets/Nfts/16384.png'
 

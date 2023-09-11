@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import Carousel from '../Carousel'
 import Button from '../Button'
 import { ThemeProvider } from 'styled-components'
-import { dark, Lakers } from '../../styles/Themes';
+import { dark } from '../../styles/Themes';
 
 const Section = styled.section`
 min-height: 100vh;
